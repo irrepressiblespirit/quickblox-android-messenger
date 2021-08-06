@@ -30,10 +30,10 @@ public class App extends Application {
 
 
     //App credentials
-    private static final String APPLICATION_ID = "91728";
-    private static final String AUTH_KEY = "rqn-cZrFrbPDpV9";
-    private static final String AUTH_SECRET = "Y-DpO7Y-K4W8fNM";
-    private static final String ACCOUNT_KEY = "_s6Cdc8qyCH-x2Q42sMe";
+    private static final String APPLICATION_ID = "9----0";
+    private static final String AUTH_KEY = "r--------8";
+    private static final String AUTH_SECRET = "Y---------1";
+    private static final String ACCOUNT_KEY = "5---------y";
 
     //Chat settings range
     private static final int MAX_PORT_VALUE = 65535;
