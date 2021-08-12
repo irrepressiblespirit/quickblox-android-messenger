@@ -13,7 +13,7 @@ Android Chat on a Java with using [ Android QuickBlox SDK](https://docs.quickblo
 [In origin project of Android chat](https://github.com/QuickBlox/quickblox-android-sdk/tree/master/sample-chat-java) was added [Room persistence library](https://developer.android.com/training/data-storage/room) as a local storage for **User** and **Dialog** entity.
 
 # Minimum Supported Version of Android
-    - **7.0 (Nougat)**
+    - 7.0 (Nougat)
 
 # Instruction how to run application
 
